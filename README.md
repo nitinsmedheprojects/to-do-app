@@ -4,25 +4,25 @@ A simple web app to manage daily tasks with CRUD operations (Create, Read, Updat
 
 ---
 
-## ? Features
-- Add tasks ?
-- View tasks ?
-- Edit tasks ?
-- Delete tasks ?
-- Bonus: Auto-generate a random task ?
+##Features
+- Add tasks
+- View tasks
+- Edit tasks
+- Delete tasks
+- Bonus: Auto-generate a random task
 
 ---
 
-## ??? Tech Stack
+##Tech Stack
 - Python 3.x
 - Flask
 
 ---
 
-## ?? Installation & Usage
+##Installation & Usage
 
 1. **Clone the repo**
-```bash
+bash
 git clone https://github.com/YOUR-USERNAME/todo_app.git
 cd todo_app
 
@@ -34,4 +34,5 @@ python app.py
 
 4. Open the browser
 http://127.0.0.1:5000/
+
 
